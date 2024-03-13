@@ -2,7 +2,7 @@
 var headerElement = document.createElement("h1");
 
 // Thiết lập nội dung của tiêu đề
-headerElement.innerText = "Đây là tiêu đề mới";
+headerElement.innerText = "omggg";
 
 // Thêm tiêu đề vào phần tử HTML có id là "container" (đây là ví dụ, bạn có thể thay đổi id tùy ý)
 document.getElementById("container").appendChild(headerElement);
